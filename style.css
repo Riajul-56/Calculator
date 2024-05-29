@@ -1,0 +1,23 @@
+.container{
+    margin:0 auto;
+}
+input{
+    font-size: 20px;
+    font-weight: 400;
+    background: rgba(0, 200, 255, 0.112);
+    color: rgb(85, 0, 255);
+}
+button{
+    width: 70px;
+    height: 30px;
+   background:transparent;
+
+}
+h1{
+    width: 200px;
+    background: skyblue;
+    padding-bottom: 20px;
+}
+.calculator{
+   padding-left: 20px;
+}
